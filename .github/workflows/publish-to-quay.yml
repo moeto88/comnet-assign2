@@ -12,7 +12,7 @@ on:
 
 env:
   REGISTRY: quay.io
-  IMAGE_NAME: moeto88/comnet_assign2
+  IMAGE_NAME: moeto88/comnet-assign2
   IMAGE_TAGS: ""
   
 jobs:
