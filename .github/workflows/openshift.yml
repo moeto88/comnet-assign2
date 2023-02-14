@@ -1,7 +1,7 @@
 name: OpenShift
 
 env:
-  APP_NAME: "comnet_assign2"
+  APP_NAME: "comnet-assign2"
   APP_PORT: "8080"
   OPENSHIFT_NAMESPACE: "moeto88-dev"
   
