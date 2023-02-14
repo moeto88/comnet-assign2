@@ -45,6 +45,6 @@ jobs:
       uses: redhat-actions/oc-new-app@v1
       with:
         app_name: ${{ env.APP_NAME }}
-        image: quay.io/moeto88/comnet_assign2
+        image: quay.io/moeto88/comnet-assign2
         namespace: ${{ env.OPENSHIFT_NAMESPACE }}
         port: ${{ env.APP_PORT }}
