@@ -22,6 +22,7 @@ jobs:
     permissions:
       contents: read
       packages: write
+    environment: development
 
     steps:
       - name: Checkout repository
